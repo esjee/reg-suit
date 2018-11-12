@@ -1,5 +1,6 @@
 {
   "private": true,
+  "name": "reg-suit",
   "version": "1.0.0",
   "scripts": {
     "clean": "rimraf packages/**/lib/ node_modules/reg-*",
